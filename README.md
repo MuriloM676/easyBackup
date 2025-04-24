@@ -1,5 +1,5 @@
-Backup de Usuários
-Descrição
+**Backup de Usuários**
+
 O Backup de Usuários é um aplicativo para Windows que facilita a realização de backups das pastas de usuários localizadas em C:\Users. Ele permite selecionar usuários, escolher uma unidade de armazenamento externa, e copiar as pastas selecionadas para uma pasta de backup com a data atual. O aplicativo possui uma interface gráfica amigável com uma animação divertida (semelhante ao jogo do dinossauro do Google Chrome) durante o processo de backup.
 Funcionalidades
 
